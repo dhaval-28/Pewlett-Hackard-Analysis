@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Analysis Overview
-The purpose of this analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Within the first table, we included information such as employee number, first and last name, position title, and start and end date. In the second, we added employee number, first and last name, birth date, start and end date, and position title. 
+The purpose of this analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. The first deliverable includes information such as employee number, first and last name, position title, and start and end date. The second deliverable includes employee number, first and last name, birth date, start and end date, and position title. 
 
 ## Results
 ### Deliverable 1a
@@ -14,8 +14,10 @@ Find out the most recent tiles of retiting emploees :
 Count of retiting employees by most recent titles :
 [retiring_titles.csv](https://github.com/dhaval-28/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
+### Deliverable 2
 The second table that identifies employee who are eligible for the mentorship program can be viewed here: [mentorship_eligibility.csv](https://github.com/dhaval-28/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
 
+### Key Takeaways :
 From these tables, we can see that there are four key takeaways:
 1.) Almost a third of the retirees are Senior Engineers, while another third includes the rest of the Senior Staff.
 2.) As a result, Senior Engineer and Senior Staff positions have the greatest priority when it comes to deciding which roles the company would like to fill.
