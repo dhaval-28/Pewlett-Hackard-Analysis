@@ -19,10 +19,10 @@ The second table that identifies employee who are eligible for the mentorship pr
 
 ### Key Takeaways :
 From these tables, we can see that there are four key takeaways:
-1.) Almost a third of the retirees are Senior Engineers, while another third includes the rest of the Senior Staff.
-2.) As a result, Senior Engineer and Senior Staff positions have the greatest priority when it comes to deciding which roles the company would like to fill.
-3.) Among those that are retiring, there are 1,549 employees that qualify for the mentorship program.
-4.) There are more people retiring than there are potential mentors, which means that the company would have to create an efficient program that can cover the disparity between the number of people retiring and the number of people who can be trained to fill these positions.
+(1) Among employees which are retiting, there 1549 employees who qulify for the mentiorship program. 
+(2) The number of employees retiring are more than potentail mentors. This would create a challenge for a company to train new employees.
+(3) Almost one third of retiting emploees are Senior Engineers, another one third are the Senior Staff and the rest are all others.
+(4) Company will have to train and fill Senior Engineers and Senior staff positions with the greatest pirority.
 
 ## Summary
 To determine how many roles will need to be filled as the "silver tsunami" begins to make an impact, we can create a graph to categorize the retirees into age groups. For each year, the company can hire (internally or externally) the amount of people that would be retiring, assuming that the retirement age is 65. Currently, we have a list of people who were born between 1952 and 1955. Therefore, we would have a different hiring quota for each of the following four years.
