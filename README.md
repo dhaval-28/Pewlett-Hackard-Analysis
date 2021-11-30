@@ -11,7 +11,7 @@ Find out the most recent tiles of retiting emploees :
 [unique_titles.csv](https://github.com/dhaval-28/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv)
 
 ### Deliverable 1c
-Count of retiting employees by most recent titles
+Count of retiting employees by most recent titles :
 [retiring_titles.csv](https://github.com/dhaval-28/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
 
 The second table that identifies employee who are eligible for the mentorship program can be viewed here: [mentorship_eligibility.csv](https://github.com/dhaval-28/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
